@@ -3,7 +3,7 @@
 
 Welcome to my Artificial Intelligence repository. This repository contains practical implementations, projects, notebooks, and learning materials related to Artificial Intelligence, Machine Learning, Data Science, and Data Visualization.
 
-## 📌 Overview
+##  Overview
 
 This repository is designed to document my learning journey and projects in the field of Artificial Intelligence. It includes machine learning models, data analysis, visualization techniques, and future AI-related implementations.
 
@@ -31,7 +31,7 @@ Topics covered:
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 Artificial-Intelligence/
@@ -44,9 +44,6 @@ Artificial-Intelligence/
 
 └── README.md
 ```
-
-# Artificial-ntelligence
-A repository focused on artificial intelligence, AI-powered project that leverages machine learning techniques to solve real-world problems efficiently and intelligently.
 
 ---
 ### Author
